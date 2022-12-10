@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+  margin:0;
+  padding:0;
+  font-family: padmon;
+  
+}
+@font-face {
+  font-family: padmon;
+  src: url('./Fonts/IntegralCF-Bold.otf');
+}
+@font-face {
+  font-family:padmonP;
+  src:url('./Fonts/sofiapro-light.otf')
+}
+h1 {
+  font-family: padmon;
+}
+p {
+  font-family:padmonP;
+}
